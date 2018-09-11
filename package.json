@@ -18,7 +18,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://parkpro.github.io/movie_app",
+  "homepage": "https://github.com/Park-pro88/movieApp",
   "devDependencies" : {
     "gh-pages": "^1.2.0"
   }
